@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/rena0alpha/Lera",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/alma",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
